@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Kathryn Bernardo",
+        "address": "123 Mabuhay St., Manila",
+        "age": 20
+    },
+    {
+        "name": "Liza Soberano",
+        "address": "456 Bayanihan Ave., Quezon City",
+        "age": 22
+    },
+    {
+        "name": "Nadine Lustre",
+        "address": "789 Kalayaan Rd., Laguna",
+        "age": 25
+    },
+    {
+        "name": "Julia Barretto",
+        "address": "101 Katipunan Blvd., Cavite",
+        "age": 23
+    },
+    {
+        "name": "Maine Mendoza",
+        "address": "303 Pag-asa St., Batangas",
+        "age": 24
+    },
+    {
+        "name": "Barbie Forteza",
+        "address": "404 Bagong Lipunan Rd., Pampanga",
+        "age": 22
+    },
+    {
+        "name": "Kim Chiu",
+        "address": "707 Maginhawa Rd., Baguio",
+        "age": 26
+    },
+    {
+        "name": "Sofia Andres",
+        "address": "909 Bayanihan Ave., Zamboanga",
+        "age": 23
+    },
+    {
+        "name": "Loisa Andalio",
+        "address": "1010 Kalayaan Rd., Palawan",
+        "age": 22
+    },
+    {
+        "name": "Andrea Brillantes",
+        "address": "1111 Katipunan Blvd., Tarlac",
+        "age": 20
+    },
+    {
+        "name": "Daniel Padilla",
+        "address": "1313 Mabuhay St., Manila",
+        "age": 25
+    },
+    {
+        "name": "Enrique Gil",
+        "address": "1414 Bayanihan Ave., Quezon City",
+        "age": 26
+    },
+    {
+        "name": "James Reid",
+        "address": "1515 Kalayaan Rd., Laguna",
+        "age": 27
+    },
+    {
+        "name": "Alden Richards",
+        "address": "1616 Katipunan Blvd., Cavite",
+        "age": 28
+    },
+    {
+        "name": "Coco Martin",
+        "address": "1717 Malaya St., Ilocos Sur",
+        "age": 30
+    }
+]
