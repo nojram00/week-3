@@ -24,5 +24,5 @@
     php artisan db:seed
 ```
 
-4. For environment variables, click <a href="https://file-downloader-vxq2.onrender.com/download?file=week-2.env">here</a>
+4. For environment variables, click <a href="https://file-downloader-vxq2.onrender.com/download?file=week-3.env">here</a>
    <b>Note: </b> Rename the file name into '.env'
